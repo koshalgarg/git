@@ -1,0 +1,14 @@
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+git config --list  // for details of user
+
+
+//initializing
+
+$ cd /c/user/your_repository
+$ git init
+
+
+//clone existing repositiory 
+$ git clone https://github.com/libgit2/libgit2 mylibgit
